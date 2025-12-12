@@ -47,9 +47,9 @@ UserSettings/
 crashlytics-build.properties
 
 # Packed Addressables
-/Library/PackageCache/
-/Packages/manifest.json
-/Packages/packages-lock.json
+# Keep Package files tracked — do not ignore /Packages/
+# (manifest.json and packages-lock.json will be tracked)
+ /Library/PackageCache/
 
 # Build artifacts
 *.apk
