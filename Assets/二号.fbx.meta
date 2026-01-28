@@ -3,7 +3,27 @@ guid: 4eeab7c4346034945ac8dc5b4c523a94
 ModelImporter:
   serializedVersion: 22200
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: high-poly
+    second: {fileID: 2100000, guid: 3ed93baf2ec7fc147840f58281bbe3ae, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: male_casualsuit05
+    second: {fileID: 2100000, guid: e8853bb44ccf3fc499670c85ef9ee49d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: male_generic
+    second: {fileID: 2100000, guid: ad3777b805ce24b4080a45d2972eb345, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: short04
+    second: {fileID: 2100000, guid: 11a9425e09eaddb4793bce811976726b, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0
